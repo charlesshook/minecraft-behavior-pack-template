@@ -1,0 +1,1 @@
+# minecraft-behavior-pack-template
