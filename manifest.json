@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Template Behavior Pack",
+      "name": "Template Behavior Pack",
+      "uuid": "290f1d8e-60a6-4122-825e-4457f50e790c",
+      "version": [0, 0, 1],
+      "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+      {
+        "description": "Template Behavior Pack",
+        "type": "data",
+        "uuid": "04b3e730-13e0-4349-bac0-1d731a63282f",
+        "version": [0, 0, 1]
+      }
+    ]
+  }
